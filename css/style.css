@@ -1,0 +1,37 @@
+#menu2{
+  background-image:url("../img/Banniére.jpg");
+    background-size: cover;
+    padding: 230px;
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+#menu1{
+  font-family: comfortaa bold;
+  color: #5fb5ef;
+  font-size: 16pt;
+}
+#menu11{
+  font-family: comfortaa bold;
+  color: white;
+  font-size: 16pt;
+  border: 1px solid #5fb5ef ;
+  background-color: #5fb5ef;
+  border-radius: 10px;
+  padding: 4px 10px;
+}
+.titre1{
+  margin-top: -150px;
+}
+h1{
+  font-family: comfortaa bold;
+  font-size: 130px;
+  color: white;
+ 
+}
+h3{
+  font-family: comfortaa bold;
+  font-size: 25px;
+  margin-top: -40px;
+}
